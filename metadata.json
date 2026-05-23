@@ -1,0 +1,6 @@
+{
+  "name": "Activity Tracker",
+  "description": "A clean and modern offline-first app to track daily activities, categorize habits, visualize duration statistics, and persist your logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
